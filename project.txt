@@ -2,9 +2,7 @@ Project: Some initial data analysis to identify how inflammation changes with ti
 
 People:
 Jane is a Data Scientist
-Samit is a Statistician
-
-Roles within the project need to be determined.
+within the project need to be determined.
 We may need a research software engineer to support R and python programming.
 Might need a doctor to talk to patients
 version control skills will also be useful
